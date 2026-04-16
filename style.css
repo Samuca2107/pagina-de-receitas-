@@ -50,3 +50,16 @@ h1, h2{
 ul{
   padding-left: 24px;
 }
+footer{
+  padding-bottom:48px;
+  text-align: center;
+  /* color: #F0E8C2;
+  por conta do erro do background vou alterar essa cor
+  para preto  */
+  color: black;
+  
+}
+footer img{
+  width: 15px;
+  vertical-align: middle;
+}
